@@ -1,0 +1,41 @@
+{
+  "user": {
+      "name": "Thomas Jackson",
+      "avatar": "user_avatar_1.png"
+    }
+  ,
+  "video": {
+      "url": "https://www.youtube.com/embed/VdNjYJRYgQc",
+      "author": "Juliana Goes",
+      "avatar": "user_avatar_1.png",
+      "title": "Vipassana Yoga",
+      "type": "AULA",
+      "description": "Nesta meditação vamos buscar a purificação trabalhando a respiração por meio do foco e auto-observação.",
+      "tag": "Yoga"
+    }
+  ,
+  "viewers": [
+    { "name":"Thomas Jackson"},
+    { "name":"Selina Matsumura","avatar": "user_avatar_2.png"},
+    { "name":"Carlee Jone"},
+    { "name":"Yelena Micco", "avatar": "user_avatar_3.png"},
+    { "name":"Rodolfo Jorgensen"},
+    { "name":"Bess Herren"},
+    { "name":"Analisa Guttman"},
+    { "name":"Latricia Braxton"},
+    { "name":"Jerry Mollica"},
+    { "name":"Yelena Micco", "avatar": "user_avatar_3.png"},
+    { "name":"Rodolfo Jorgensen"},
+    { "name":"Bess Herren"},
+    { "name":"Analisa Guttman"},
+    { "name":"Latricia Braxton"},
+    { "name":"Jerry Mollica"},
+    { "name":"Yelena Micco", "avatar": "user_avatar_3.png"},
+    { "name":"Rodolfo Jorgensen"},
+    { "name":"Bess Herren"},
+    { "name":"Analisa Guttman"},
+    { "name":"Latricia Braxton"},
+    { "name":"Jerry Mollica"},
+    { "name":"Desiree Dale"}
+  ]
+}
