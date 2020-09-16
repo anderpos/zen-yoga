@@ -1,4 +1,4 @@
-Avaliação técnica feita para a empresa Zen. O objetivo era a criação de um layout funcional, baseado em um layout estático enviado.
+Avaliação técnica feita para a empresa Zen. O objetivo era a criação de um layout funcional, baseado em um layout estático.
 
 ### Executando o projeto
 
